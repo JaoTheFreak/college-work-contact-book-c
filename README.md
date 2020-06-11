@@ -1,2 +1,2 @@
-# college-work-calendar-c
-A calender to college work made in C language
+# college-work-contact-book-c
+A contact book to college work made in C language
