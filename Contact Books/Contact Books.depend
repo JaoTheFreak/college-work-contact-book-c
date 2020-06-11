@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591894759 source:d:\joao\repo\college-work-contact-book-c\contact books\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
