@@ -1,4 +1,4 @@
 .idea
 .vs
-Contact Books/bin/*
-Contact Books/obj/*
+src/Contact Books/bin/*
+src/Contact Books/obj/*
